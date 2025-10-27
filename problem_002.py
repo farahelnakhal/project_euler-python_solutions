@@ -10,7 +10,7 @@ def euler_2(cap):
     if a % 2 == 0: total += a
     a, b = b, a + b #update the new fibonnaci values
   
-  print(total) #print output
+  print(total) #print output once loop is complete
 
 euler_2(4000000) #call the function on a cap of 4 million
 
