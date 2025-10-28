@@ -1,21 +1,11 @@
 # Project Euler — Solutions
 
-This repository contains my solutions to [Project Euler](https://projecteuler.net/) problems, all implemented in Python. Each problem explores mathematical reasoning, algorithms, and efficient coding techniques.
+This repository contains my solutions to [Project Euler](https://projecteuler.net/) problems, implemented in different languages. Each problem explores mathematical reasoning, algorithms, and efficient coding techniques.
 
 ---
 
-Each file follows the naming format:  
-`problem_<NNN>.py` → for example, for problem 1, `problem_001.py`.
+Each problem solution is stored in its own folder named `problem_<NNN>`. A folder may contain solutions in one or more programming languages.
 
----
+Each solution file follows this naming convention: `problem_<NNN>.<ext>`
 
-## Requirements
-- Python 3.8 or higher  
-- No external libraries needed unless noted in a specific file.
-
----
-
-## Running a Solution
-Run any problem file with:
-```bash
-python3 problem_001.py
+For example, the Python solution for Problem 1 would be: `problem_001.py`.
